@@ -1,0 +1,21 @@
+# Gradle output and local caches
+.gradle/
+build/
+
+# IDE metadata
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local NeoForge run data
+run/
+logs/
+crash-reports/
+
+# Generated resources
+src/generated/resources/
+
+# Operating system files
+.DS_Store
+Thumbs.db
